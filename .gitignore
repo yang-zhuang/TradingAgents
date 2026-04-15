@@ -217,3 +217,30 @@ __marimo__/
 
 # Cache
 **/data_cache/
+
+# Project-specific temporary files and documentation
+COMPARISON.md
+SIMPLIFICATION_SUMMARY.md
+UNIFIED_STRUCTURE.md
+LLM_CONFIGURATION_GUIDE.md
+LLM_CONFIG_SUMMARY.md
+FINAL_SUMMARY.md
+COMPLETE_SUMMARY.md
+SIMPLIFIED_VERSION_SUMMARY.md
+QUICK_REFERENCE.md
+GITIGNORE_UPDATE.md
+
+# Test files
+test_unified_flow.py
+test_*.py
+
+# Example files (temporary)
+example_custom_llm.py
+example_simple_usage.py
+example_*.py
+
+# Package manager lock files
+uv.lock
+poetry.lock
+Pipfile.lock
+Pipfile.lock
